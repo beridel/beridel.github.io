@@ -1,1 +1,0 @@
-# beridel.github.io
