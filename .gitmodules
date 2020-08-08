@@ -1,3 +1,7 @@
 [submodule "camcat"]
 	path = camcat
 	url = https://github.com/camcat/camcat.github.io.git
+[submodule "tecto"]
+	path = tecto
+	url = https://github.com/beridel/tecto.git
+	branch = master
