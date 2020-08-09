@@ -3,6 +3,10 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eqsci.mit.edu/author/</loc>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/authors/</loc>
   </url>
   
@@ -16,10 +20,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/author/earthquake-science-mit/</loc>
   </url>
   
   <url>
