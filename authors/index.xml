@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Tectonophysics</title>
-    <link>https://beridel.github.io/authors/</link>
-      <atom:link href="https://beridel.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <title>Authors | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/authors/</link>
+      <atom:link href="https://eqsci.mit.edu/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://beridel.github.io/images/logo.svg</url>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Authors</title>
-      <link>https://beridel.github.io/authors/</link>
+      <link>https://eqsci.mit.edu/authors/</link>
     </image>
     
   </channel>
