@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>transform | Earthquake Science</title>
+    <title>transform on Earthquake Science</title>
     <link>https://eqsci.mit.edu/tag/transform/</link>
-      <atom:link href="https://eqsci.mit.edu/tag/transform/index.xml" rel="self" type="application/rss+xml" />
-    <description>transform</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>transform</title>
-      <link>https://eqsci.mit.edu/tag/transform/</link>
-    </image>
+    <description>Recent content in transform on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://eqsci.mit.edu/tag/transform/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>The transient and intermittent nature of slow slip</title>
       <link>https://eqsci.mit.edu/publication/jolivet-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/jolivet-2020/</guid>
       <description></description>
     </item>
@@ -24,7 +24,17 @@
       <title>Imbricated slip rate processes during slow slip transients imaged by low-frequency earthquakes</title>
       <link>https://eqsci.mit.edu/publication/lengline-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/lengline-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Triggering and Earthquake Swarms on East Pacific Rise Transform Faults</title>
+      <link>https://eqsci.mit.edu/publication/cattania-2017-k/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/publication/cattania-2017-k/</guid>
       <description></description>
     </item>
     
@@ -32,6 +42,7 @@
       <title>Spatial-temporal variation of low-frequency earthquake bursts near Parkfield, California</title>
       <link>https://eqsci.mit.edu/publication/wu-2015/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/wu-2015/</guid>
       <description></description>
     </item>

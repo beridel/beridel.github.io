@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories | Earthquake Science</title>
+    <title>Categories on Earthquake Science</title>
     <link>https://eqsci.mit.edu/categories/</link>
-      <atom:link href="https://eqsci.mit.edu/categories/index.xml" rel="self" type="application/rss+xml" />
-    <description>Categories</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
-    <image>
-      <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>Categories</title>
-      <link>https://eqsci.mit.edu/categories/</link>
-    </image>
+    <description>Recent content in Categories on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://eqsci.mit.edu/categories/index.xml" rel="self" type="application/rss+xml" />
+    
     
   </channel>
 </rss>
