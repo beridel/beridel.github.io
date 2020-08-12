@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>East Pacific Rise on Earthquake Science</title>
+    <title>East Pacific Rise | Earthquake Science</title>
     <link>https://eqsci.mit.edu/tag/east-pacific-rise/</link>
-    <description>Recent content in East Pacific Rise on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eqsci.mit.edu/tag/east-pacific-rise/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://eqsci.mit.edu/tag/east-pacific-rise/index.xml" rel="self" type="application/rss+xml" />
+    <description>East Pacific Rise</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>East Pacific Rise</title>
+      <link>https://eqsci.mit.edu/tag/east-pacific-rise/</link>
+    </image>
     
     <item>
       <title>Dynamic Triggering and Earthquake Swarms on East Pacific Rise Transform Faults</title>
       <link>https://eqsci.mit.edu/publication/cattania-2017-k/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2017-k/</guid>
       <description></description>
     </item>

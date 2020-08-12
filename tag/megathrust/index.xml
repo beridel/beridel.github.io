@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>megathrust on Earthquake Science</title>
+    <title>megathrust | Earthquake Science</title>
     <link>https://eqsci.mit.edu/tag/megathrust/</link>
-    <description>Recent content in megathrust on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eqsci.mit.edu/tag/megathrust/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://eqsci.mit.edu/tag/megathrust/index.xml" rel="self" type="application/rss+xml" />
+    <description>megathrust</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>megathrust</title>
+      <link>https://eqsci.mit.edu/tag/megathrust/</link>
+    </image>
     
     <item>
       <title>Statistical evidence of a seismic quiescence before the M$_w$8.1 Iquique earthquake, Chile</title>
       <link>https://eqsci.mit.edu/publication/aden-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/aden-2020/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Mapping the rheology of the Central Chile subduction zone with aftershocks</title>
       <link>https://eqsci.mit.edu/publication/frank-2017-a/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2017-a/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>The Relationship between Afterslip and Aftershocks: A Study Based on Coulomb-Rate-and-State Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2014-b/</guid>
       <description></description>
     </item>

@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>J Wassermann on Earthquake Science</title>
+    <title>J Wassermann | Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/j-wassermann/</link>
-    <description>Recent content in J Wassermann on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eqsci.mit.edu/author/j-wassermann/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://eqsci.mit.edu/author/j-wassermann/index.xml" rel="self" type="application/rss+xml" />
+    <description>J Wassermann</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>J Wassermann</title>
+      <link>https://eqsci.mit.edu/author/j-wassermann/</link>
+    </image>
     
     <item>
       <title>Testing Atmospheric and Tidal Earthquake Triggering at Mt. Hochstaufen, Germany</title>
       <link>https://eqsci.mit.edu/publication/hainzl-2013/</link>
       <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/hainzl-2013/</guid>
       <description></description>
     </item>

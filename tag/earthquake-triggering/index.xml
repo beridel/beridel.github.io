@@ -1,21 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>earthquake triggering on Earthquake Science</title>
+    <title>earthquake triggering | Earthquake Science</title>
     <link>https://eqsci.mit.edu/tag/earthquake-triggering/</link>
-    <description>Recent content in earthquake triggering on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://eqsci.mit.edu/tag/earthquake-triggering/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://eqsci.mit.edu/tag/earthquake-triggering/index.xml" rel="self" type="application/rss+xml" />
+    <description>earthquake triggering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>earthquake triggering</title>
+      <link>https://eqsci.mit.edu/tag/earthquake-triggering/</link>
+    </image>
     
     <item>
       <title>Connecting Crustal Seismicity and Earthquake-Driven Stress Evolution in Southern California</title>
       <link>https://eqsci.mit.edu/publication/pollitz-2017/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/pollitz-2017/</guid>
       <description></description>
     </item>
@@ -24,7 +24,6 @@
       <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2014/</guid>
       <description></description>
     </item>
@@ -33,7 +32,6 @@
       <title>The Relationship between Afterslip and Aftershocks: A Study Based on Coulomb-Rate-and-State Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2014-b/</guid>
       <description></description>
     </item>
