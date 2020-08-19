@@ -11,4 +11,3 @@ cd ..
 git add tecto camcat
 
 git commit -m "updating submodules"
-git push
