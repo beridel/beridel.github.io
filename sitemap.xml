@@ -3,6 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://eqsci.mit.edu/author/camilla-cattania/</loc>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/author/william-b.-frank/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/publication-type/2/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
@@ -14,6 +23,11 @@
   
   <url>
     <loc>https://eqsci.mit.edu/</loc>
+    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/earthquake-source/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -53,22 +67,12 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tag/source-physics/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eqsci.mit.edu/tag/subduction/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://eqsci.mit.edu/tags/</loc>
-    <lastmod>2020-06-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/author/william-b.-frank/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,11 +98,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/author/jean-pierre-villotte/</loc>
-    <lastmod>2020-05-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/tag/megathrust/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -333,7 +332,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tag/matched-filter/</loc>
+    <loc>https://eqsci.mit.edu/tag/high-performance-computing/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -389,6 +388,11 @@
   
   <url>
     <loc>https://eqsci.mit.edu/tag/aftershocks/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/afterslip/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -489,11 +493,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/tag/postseismic/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/tag/rate-and-state/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -663,11 +662,6 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tag/hpc/</loc>
-    <lastmod>2017-12-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eqsci.mit.edu/tag/cascadia/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -683,7 +677,7 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tag/parkfield/</loc>
+    <loc>https://eqsci.mit.edu/tag/san-andreas/</loc>
     <lastmod>2017-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -833,6 +827,11 @@
   </url>
   
   <url>
+    <loc>https://eqsci.mit.edu/tag/hpc/</loc>
+    <lastmod>2016-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://eqsci.mit.edu/tag/parallel-computing/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -908,11 +907,6 @@
   </url>
   
   <url>
-    <loc>https://eqsci.mit.edu/tag/afterslip/</loc>
-    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://eqsci.mit.edu/author/bogdan-enescu/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
@@ -929,6 +923,16 @@
   
   <url>
     <loc>https://eqsci.mit.edu/author/lifeng-wang/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/megathrust/</loc>
+    <lastmod>2014-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eqsci.mit.edu/tag/parkfield/</loc>
     <lastmod>2014-01-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -1004,10 +1008,6 @@
   
   <url>
     <loc>https://eqsci.mit.edu/author/</loc>
-  </url>
-  
-  <url>
-    <loc>https://eqsci.mit.edu/author/camilla-cattania/</loc>
   </url>
   
   <url>
