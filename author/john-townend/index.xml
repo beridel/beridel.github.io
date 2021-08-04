@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>John Townend | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/john-townend/</link>
+      <atom:link href="https://eqsci.mit.edu/author/john-townend/index.xml" rel="self" type="application/rss+xml" />
+    <description>John Townend</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>John Townend</title>
+      <link>https://eqsci.mit.edu/author/john-townend/</link>
+    </image>
+    
+    <item>
+      <title>Illuminating the Pre-, Co-, and Post-Seismic Phases of the 2016 M7.8 Kaikōura Earthquake With 10 Years of Seismicity</title>
+      <link>https://eqsci.mit.edu/publication/chamberlain-2021/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/chamberlain-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

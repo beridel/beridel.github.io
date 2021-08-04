@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/</link>
       <atom:link href="https://eqsci.mit.edu/index.xml" rel="self" type="application/rss+xml" />
     <description>Earthquake Science</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Earthquake Science</title>
       <link>https://eqsci.mit.edu/</link>
     </image>
+    
+    <item>
+      <title>Illuminating the Pre-, Co-, and Post-Seismic Phases of the 2016 M7.8 Kaikōura Earthquake With 10 Years of Seismicity</title>
+      <link>https://eqsci.mit.edu/publication/chamberlain-2021/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/chamberlain-2021/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Moment-duration scaling of low-frequency earthquakes in Guerrero, Mexico</title>
