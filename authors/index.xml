@@ -1,16 +1,1066 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors | Earthquake Science</title>
+    <title>Authors on Earthquake Science</title>
     <link>https://eqsci.mit.edu/authors/</link>
-      <atom:link href="https://eqsci.mit.edu/authors/index.xml" rel="self" type="application/rss+xml" />
-    <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>Authors</title>
-      <link>https://eqsci.mit.edu/authors/</link>
-    </image>
+    <description>Recent content in Authors on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/authors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Camilla Cattania</title>
+      <link>https://eqsci.mit.edu/author/camilla-cattania/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/camilla-cattania/</guid>
+      <description>Welcome! I’m an assistant professor in the Department of Earth, Atmospheric, and Planetary Sciences at MIT, where I am starting a research group on fault mechanics and earthquake physics.
+I am currently looking for enthusiastic graduates students and postdocts.</description>
+    </item>
+    
+    <item>
+      <title>William B. Frank</title>
+      <link>https://eqsci.mit.edu/author/william-b.-frank/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/william-b.-frank/</guid>
+      <description>William Frank is an Assistant Professor in the Department of Earth, Atmospheric and Planetary Sciences at the Massachusetts Institute of Technology. He leads the Tectonophysics research group that focuses on crustal deformation within the solid Earth, whether it&amp;rsquo;s the result of earthquakes or the slow shear of slow slip.</description>
+    </item>
+    
+    <item>
+      <title>Leoncio Cabrera</title>
+      <link>https://eqsci.mit.edu/author/leoncio-cabrera/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/leoncio-cabrera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Piero Poli</title>
+      <link>https://eqsci.mit.edu/author/piero-poli/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/piero-poli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Florent Aden-Antoniow</title>
+      <link>https://eqsci.mit.edu/author/florent-aden-antoniow/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/florent-aden-antoniow/</guid>
+      <description>Florent started in February 2019 at USC before moving to MIT in July 2020. He is particularly interested in the detection and location of Earthquakes and their interaction with what we call Slow-Earthquakes.</description>
+    </item>
+    
+    <item>
+      <title>Leonard Simon Seydoux</title>
+      <link>https://eqsci.mit.edu/author/leonard-simon-seydoux/</link>
+      <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/leonard-simon-seydoux/</guid>
+      <description>Leonard started in January 2022 at the MIT Department of Earth, Atmospheric, and Planetary Sciences. His research focuses on understanding physical processes within fault and volcanic systems. With tools taken from artificial intelligence, Leonard&amp;rsquo;s investigate continuous geophysical time series to reveal and inventorize the signature of physical processes.</description>
+    </item>
+    
+    <item>
+      <title>Allen Husker</title>
+      <link>https://eqsci.mit.edu/author/allen-husker/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/allen-husker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jorge C Castellanos</title>
+      <link>https://eqsci.mit.edu/author/jorge-c-castellanos/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/jorge-c-castellanos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Raúl W Valenzuela</title>
+      <link>https://eqsci.mit.edu/author/raul-w-valenzuela/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/raul-w-valenzuela/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xyoli Pérez-Campos</title>
+      <link>https://eqsci.mit.edu/author/xyoli-perez-campos/</link>
+      <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/xyoli-perez-campos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Calum J Chamberlain</title>
+      <link>https://eqsci.mit.edu/author/calum-j-chamberlain/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/calum-j-chamberlain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily Warren-Smith</title>
+      <link>https://eqsci.mit.edu/author/emily-warren-smith/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/emily-warren-smith/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federica Lanza</title>
+      <link>https://eqsci.mit.edu/author/federica-lanza/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/federica-lanza/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John Townend</title>
+      <link>https://eqsci.mit.edu/author/john-townend/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/john-townend/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaspard Farge</title>
+      <link>https://eqsci.mit.edu/author/gaspard-farge/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/gaspard-farge/</guid>
+      <description>Gaspard is a PhD student from the Institut de Physique du Globe de Paris, supervised Claude Jaupart and Nikolai Shapiro. From Sept. 21 to Mar. 22, he is visiting William Frank&amp;rsquo;s group at MIT as a Fulbright fellow.</description>
+    </item>
+    
+    <item>
+      <title>Nikolaï M Shapiro</title>
+      <link>https://eqsci.mit.edu/author/nikolai-m-shapiro/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/nikolai-m-shapiro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Claudio Satriano</title>
+      <link>https://eqsci.mit.edu/author/claudio-satriano/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/claudio-satriano/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>El Madani Aissaoui</title>
+      <link>https://eqsci.mit.edu/author/el-madani-aissaoui/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/el-madani-aissaoui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Pierre Villotte</title>
+      <link>https://eqsci.mit.edu/author/jean-pierre-villotte/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/jean-pierre-villotte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natalia Poiata</title>
+      <link>https://eqsci.mit.edu/author/natalia-poiata/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/natalia-poiata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pascal Bernard</title>
+      <link>https://eqsci.mit.edu/author/pascal-bernard/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/pascal-bernard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ahmed Elbanna</title>
+      <link>https://eqsci.mit.edu/author/ahmed-elbanna/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/ahmed-elbanna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Idini</title>
+      <link>https://eqsci.mit.edu/author/benjamin-idini/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/benjamin-idini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brittany A. Erickson</title>
+      <link>https://eqsci.mit.edu/author/brittany-a.-erickson/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/brittany-a.-erickson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Camilla Cattania</title>
+      <link>https://eqsci.mit.edu/author/camilla-cattania/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/camilla-cattania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric M. Dunham</title>
+      <link>https://eqsci.mit.edu/author/eric-m.-dunham/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/eric-m.-dunham/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jean-Paul Ampuero</title>
+      <link>https://eqsci.mit.edu/author/jean-paul-ampuero/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/jean-paul-ampuero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeremy E. Kozdon</title>
+      <link>https://eqsci.mit.edu/author/jeremy-e.-kozdon/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/jeremy-e.-kozdon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Junle Jiang</title>
+      <link>https://eqsci.mit.edu/author/junle-jiang/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/junle-jiang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kali L. Allison</title>
+      <link>https://eqsci.mit.edu/author/kali-l.-allison/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/kali-l.-allison/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lauren S. Abrahams</title>
+      <link>https://eqsci.mit.edu/author/lauren-s.-abrahams/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/lauren-s.-abrahams/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maricela Best McKay</title>
+      <link>https://eqsci.mit.edu/author/maricela-best-mckay/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/maricela-best-mckay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Martijn van den Ende</title>
+      <link>https://eqsci.mit.edu/author/martijn-van-den-ende/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/martijn-van-den-ende/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meng Wei</title>
+      <link>https://eqsci.mit.edu/author/meng-wei/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/meng-wei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Barall</title>
+      <link>https://eqsci.mit.edu/author/michael-barall/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/michael-barall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nadia Lapusta</title>
+      <link>https://eqsci.mit.edu/author/nadia-lapusta/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/nadia-lapusta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul Segall</title>
+      <link>https://eqsci.mit.edu/author/paul-segall/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/paul-segall/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pengcheng Shi</title>
+      <link>https://eqsci.mit.edu/author/pengcheng-shi/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/pengcheng-shi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Romain Jolivet</title>
+      <link>https://eqsci.mit.edu/author/romain-jolivet/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/romain-jolivet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ruth Harris</title>
+      <link>https://eqsci.mit.edu/author/ruth-harris/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/ruth-harris/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sylvain Barbot</title>
+      <link>https://eqsci.mit.edu/author/sylvain-barbot/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/sylvain-barbot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Valère Lambert</title>
+      <link>https://eqsci.mit.edu/author/valere-lambert/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/valere-lambert/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xiao Ma</title>
+      <link>https://eqsci.mit.edu/author/xiao-ma/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/xiao-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yajing Liu</title>
+      <link>https://eqsci.mit.edu/author/yajing-liu/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/yajing-liu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yingdi Luo</title>
+      <link>https://eqsci.mit.edu/author/yingdi-luo/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/yingdi-luo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuri Fialko</title>
+      <link>https://eqsci.mit.edu/author/yuri-fialko/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/yuri-fialko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne Paul</title>
+      <link>https://eqsci.mit.edu/author/anne-paul/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/anne-paul/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Emily E Brodsky</title>
+      <link>https://eqsci.mit.edu/author/emily-e-brodsky/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/emily-e-brodsky/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eric Beaucé</title>
+      <link>https://eqsci.mit.edu/author/eric-beauce/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/eric-beauce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michel Campillo</title>
+      <link>https://eqsci.mit.edu/author/michel-campillo/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/michel-campillo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert D van der Hilst</title>
+      <link>https://eqsci.mit.edu/author/robert-d-van-der-hilst/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/robert-d-van-der-hilst/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Germán A Prieto</title>
+      <link>https://eqsci.mit.edu/author/german-a-prieto/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/german-a-prieto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kazushige Obara</title>
+      <link>https://eqsci.mit.edu/author/kazushige-obara/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/kazushige-obara/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kevin Chao</title>
+      <link>https://eqsci.mit.edu/author/kevin-chao/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/kevin-chao/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zhigang Peng</title>
+      <link>https://eqsci.mit.edu/author/zhigang-peng/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/zhigang-peng/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Allen L Husker</title>
+      <link>https://eqsci.mit.edu/author/allen-l-husker/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/allen-l-husker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C. Cattania</title>
+      <link>https://eqsci.mit.edu/author/c.-cattania/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/c.-cattania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Marsan</title>
+      <link>https://eqsci.mit.edu/author/david-marsan/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/david-marsan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ekaterina Kazachkina</title>
+      <link>https://eqsci.mit.edu/author/ekaterina-kazachkina/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/ekaterina-kazachkina/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guillermo Gonzales</title>
+      <link>https://eqsci.mit.edu/author/guillermo-gonzales/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/guillermo-gonzales/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Perfettini</title>
+      <link>https://eqsci.mit.edu/author/hugo-perfettini/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/hugo-perfettini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Leticia Avila</title>
+      <link>https://eqsci.mit.edu/author/leticia-avila/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/leticia-avila/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. J. Werner</title>
+      <link>https://eqsci.mit.edu/author/m.-j.-werner/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/m.-j.-werner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>M. Segou</title>
+      <link>https://eqsci.mit.edu/author/m.-segou/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/m.-segou/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michel Bouchon</title>
+      <link>https://eqsci.mit.edu/author/michel-bouchon/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/michel-bouchon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S. Mancini</title>
+      <link>https://eqsci.mit.edu/author/s.-mancini/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/s.-mancini/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vladimir Kostoglodov</title>
+      <link>https://eqsci.mit.edu/author/vladimir-kostoglodov/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/vladimir-kostoglodov/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abigail Jimenez</title>
+      <link>https://eqsci.mit.edu/author/abigail-jimenez/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/abigail-jimenez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Agnès Helmstetter</title>
+      <link>https://eqsci.mit.edu/author/agnes-helmstetter/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/agnes-helmstetter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annemarie Christophersen</title>
+      <link>https://eqsci.mit.edu/author/annemarie-christophersen/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/annemarie-christophersen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David Rhoades</title>
+      <link>https://eqsci.mit.edu/author/david-rhoades/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/david-rhoades/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maria Liukis</title>
+      <link>https://eqsci.mit.edu/author/maria-liukis/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/maria-liukis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Matthew Gerstenberger</title>
+      <link>https://eqsci.mit.edu/author/matthew-gerstenberger/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/matthew-gerstenberger/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Maximilian J. Werner</title>
+      <link>https://eqsci.mit.edu/author/maximilian-j.-werner/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/maximilian-j.-werner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sandy Steacy</title>
+      <link>https://eqsci.mit.edu/author/sandy-steacy/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/sandy-steacy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sebastian Hainzl</title>
+      <link>https://eqsci.mit.edu/author/sebastian-hainzl/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/sebastian-hainzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thomas H. Jordan</title>
+      <link>https://eqsci.mit.edu/author/thomas-h.-jordan/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/thomas-h.-jordan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Warner Marzocchi</title>
+      <link>https://eqsci.mit.edu/author/warner-marzocchi/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/warner-marzocchi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>William Savran</title>
+      <link>https://eqsci.mit.edu/author/william-savran/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/william-savran/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Baptiste Rousset</title>
+      <link>https://eqsci.mit.edu/author/baptiste-rousset/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/baptiste-rousset/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cécile Lasserre</title>
+      <link>https://eqsci.mit.edu/author/cecile-lasserre/</link>
+      <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/cecile-lasserre/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexander A Gusev</title>
+      <link>https://eqsci.mit.edu/author/alexander-a-gusev/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/alexander-a-gusev/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rachel E Abercrombie</title>
+      <link>https://eqsci.mit.edu/author/rachel-e-abercrombie/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/rachel-e-abercrombie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Alexey Romanenko</title>
+      <link>https://eqsci.mit.edu/author/alexey-romanenko/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/alexey-romanenko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Olivier, Lengliné</title>
+      <link>https://eqsci.mit.edu/author/olivier-lengline/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/olivier-lengline/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Andrea Walpersdorf</title>
+      <link>https://eqsci.mit.edu/author/andrea-walpersdorf/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/andrea-walpersdorf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anne Socquet</title>
+      <link>https://eqsci.mit.edu/author/anne-socquet/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/anne-socquet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nathalie Cotte</title>
+      <link>https://eqsci.mit.edu/author/nathalie-cotte/</link>
+      <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/nathalie-cotte/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eleonora Rivalta</title>
+      <link>https://eqsci.mit.edu/author/eleonora-rivalta/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/eleonora-rivalta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fred F. Pollitz</title>
+      <link>https://eqsci.mit.edu/author/fred-f.-pollitz/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/fred-f.-pollitz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jeffrey J. McGuire</title>
+      <link>https://eqsci.mit.edu/author/jeffrey-j.-mcguire/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/jeffrey-j.-mcguire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>John A. Collins</title>
+      <link>https://eqsci.mit.edu/author/john-a.-collins/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/john-a.-collins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luigi Passarelli</title>
+      <link>https://eqsci.mit.edu/author/luigi-passarelli/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/luigi-passarelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yosuke Aoki</title>
+      <link>https://eqsci.mit.edu/author/yosuke-aoki/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/yosuke-aoki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>F. Khalid</title>
+      <link>https://eqsci.mit.edu/author/f.-khalid/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/f.-khalid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chunquan Wu</title>
+      <link>https://eqsci.mit.edu/author/chunquan-wu/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/chunquan-wu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daniel Trugman</title>
+      <link>https://eqsci.mit.edu/author/daniel-trugman/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/daniel-trugman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>David R Shelly</title>
+      <link>https://eqsci.mit.edu/author/david-r-shelly/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/david-r-shelly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Joan Gomberg</title>
+      <link>https://eqsci.mit.edu/author/joan-gomberg/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/joan-gomberg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Paul A Johnson</title>
+      <link>https://eqsci.mit.edu/author/paul-a-johnson/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/paul-a-johnson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert A Guyer</title>
+      <link>https://eqsci.mit.edu/author/robert-a-guyer/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/robert-a-guyer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mathilde Radiguet</title>
+      <link>https://eqsci.mit.edu/author/mathilde-radiguet/</link>
+      <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/mathilde-radiguet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harsha S Bhat</title>
+      <link>https://eqsci.mit.edu/author/harsha-s-bhat/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/harsha-s-bhat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bogdan Enescu</title>
+      <link>https://eqsci.mit.edu/author/bogdan-enescu/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/bogdan-enescu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frank Roth</title>
+      <link>https://eqsci.mit.edu/author/frank-roth/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/frank-roth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lifeng Wang</title>
+      <link>https://eqsci.mit.edu/author/lifeng-wang/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/lifeng-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juan S Payero</title>
+      <link>https://eqsci.mit.edu/author/juan-s-payero/</link>
+      <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/juan-s-payero/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C Cattania</title>
+      <link>https://eqsci.mit.edu/author/c-cattania/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/c-cattania/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>J Wassermann</title>
+      <link>https://eqsci.mit.edu/author/j-wassermann/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/j-wassermann/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>S Hainzl</title>
+      <link>https://eqsci.mit.edu/author/s-hainzl/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/s-hainzl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Y Ben-Zion</title>
+      <link>https://eqsci.mit.edu/author/y-ben-zion/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/y-ben-zion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eqsci.mit.edu/author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/</guid>
+      <description>Welcome to EQSci@MIT! We are part of the Department of Earth, Atmospheric and Planetary Sciences at MIT.
+We are two research groups focused on earthquake science, covering everything from observational seismology and geodesy to numerical and analytical modeling: Fault Mechanics, led by Assistant Professor Camilla Cattania, and Tectonophysics, led by Assistant Professor William Frank.</description>
+    </item>
+    
+    <item>
+      <title>Caroline Mouchon</title>
+      <link>https://eqsci.mit.edu/author/caroline-mouchon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/caroline-mouchon/</guid>
+      <description>Caroline visited during spring 2020 to work on the subdaily dynamics of slow slip in Mexico. After obtaining her Master&amp;rsquo;s degree from the ISTerre, she will continue to work there until the end of 2020 before starting a PhD program at MIT in the Tectonophysics group in 2021.</description>
+    </item>
+    
+    <item>
+      <title>Jared Bryan</title>
+      <link>https://eqsci.mit.edu/author/jared-bryan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/jared-bryan/</guid>
+      <description>Jared Bryan is a first-year graduate student starting at MIT in fall 2020.</description>
+    </item>
+    
+    <item>
+      <title>Mathilde Wimez</title>
+      <link>https://eqsci.mit.edu/author/mathilde-wimez/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/mathilde-wimez/</guid>
+      <description>Mathilde started in September 2018 at USC before moving to MIT summmer 2020. Mathilde Wimez is a PhD student in the Tectonophysics group of the Earth, Atmospheric and Planetary Sciences at MIT.</description>
+    </item>
+    
+    <item>
+      <title>Qingyu Wang</title>
+      <link>https://eqsci.mit.edu/author/qingyu-wang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/qingyu-wang/</guid>
+      <description>Qingyu will be joining us at MIT ASAP!</description>
+    </item>
+    
+    <item>
+      <title>Yudong Sun</title>
+      <link>https://eqsci.mit.edu/author/yudong-sun/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/author/yudong-sun/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

@@ -1,21 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>aftershocks | Earthquake Science</title>
+    <title>aftershocks on Earthquake Science</title>
     <link>https://eqsci.mit.edu/tag/aftershocks/</link>
-      <atom:link href="https://eqsci.mit.edu/tag/aftershocks/index.xml" rel="self" type="application/rss+xml" />
-    <description>aftershocks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2022 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>aftershocks</title>
-      <link>https://eqsci.mit.edu/tag/aftershocks/</link>
-    </image>
+    <description>Recent content in aftershocks on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/tag/aftershocks/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracking the Spatio-Temporal Evolution of Foreshocks Preceding the Mw 6.1 2009 L’Aquila Earthquake</title>
+      <link>https://eqsci.mit.edu/publication/cabrera-2022/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/publication/cabrera-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Adaptable Random Forest Model for the Declustering of Earthquake Catalogs</title>
       <link>https://eqsci.mit.edu/publication/aden-2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/aden-2022/</guid>
       <description></description>
     </item>
@@ -24,6 +29,7 @@
       <title>Illuminating the Pre-, Co-, and Post-Seismic Phases of the 2016 M7.8 Kaikōura Earthquake With 10 Years of Seismicity</title>
       <link>https://eqsci.mit.edu/publication/chamberlain-2021/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/chamberlain-2021/</guid>
       <description></description>
     </item>
@@ -32,6 +38,7 @@
       <title>Improving Physics-Based Aftershock Forecasts during the 2016– 2017 Central Italy Earthquake Cascade</title>
       <link>https://eqsci.mit.edu/publication/mancini-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/mancini-2019/</guid>
       <description></description>
     </item>
@@ -40,6 +47,7 @@
       <title>Updip and along-strike aftershock migration model driven by afterslip: application to the 2011 Tohoku-Oki aftershock sequence</title>
       <link>https://eqsci.mit.edu/publication/perfettini-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/perfettini-2019/</guid>
       <description></description>
     </item>
@@ -48,6 +56,7 @@
       <title>The Forecasting Skill of Physics-based Seismicity Models during the 2010–2012 Canterbury, New Zealand, Earthquake Sequence</title>
       <link>https://eqsci.mit.edu/publication/cattania-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/cattania-2018/</guid>
       <description></description>
     </item>
@@ -56,6 +65,7 @@
       <title>A model for migration of aftershocks driven by afterslip</title>
       <link>https://eqsci.mit.edu/publication/perfettini-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/perfettini-2018/</guid>
       <description></description>
     </item>
@@ -64,6 +74,7 @@
       <title>Mapping the rheology of the Central Chile subduction zone with aftershocks</title>
       <link>https://eqsci.mit.edu/publication/frank-2017-a/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/frank-2017-a/</guid>
       <description></description>
     </item>
@@ -72,6 +83,7 @@
       <title>A Parallel Code to Calculate Rate-State Seismicity Evolution Induced by Time Dependent, Heterogeneous Coulomb Stress Changes</title>
       <link>https://eqsci.mit.edu/publication/cattania-2016/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/cattania-2016/</guid>
       <description></description>
     </item>
@@ -80,6 +92,7 @@
       <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/cattania-2014/</guid>
       <description></description>
     </item>
@@ -88,6 +101,7 @@
       <title>The Relationship between Afterslip and Aftershocks: A Study Based on Coulomb-Rate-and-State Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/cattania-2014-b/</guid>
       <description></description>
     </item>

@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Federica Lanza | Earthquake Science</title>
+    <title>Federica Lanza on Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/federica-lanza/</link>
-      <atom:link href="https://eqsci.mit.edu/author/federica-lanza/index.xml" rel="self" type="application/rss+xml" />
-    <description>Federica Lanza</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>Federica Lanza</title>
-      <link>https://eqsci.mit.edu/author/federica-lanza/</link>
-    </image>
-    
+    <description>Recent content in Federica Lanza on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/federica-lanza/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Illuminating the Pre-, Co-, and Post-Seismic Phases of the 2016 M7.8 Kaikōura Earthquake With 10 Years of Seismicity</title>
       <link>https://eqsci.mit.edu/publication/chamberlain-2021/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/chamberlain-2021/</guid>
       <description></description>
     </item>

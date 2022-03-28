@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nathalie Cotte | Earthquake Science</title>
+    <title>Nathalie Cotte on Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/nathalie-cotte/</link>
-      <atom:link href="https://eqsci.mit.edu/author/nathalie-cotte/index.xml" rel="self" type="application/rss+xml" />
-    <description>Nathalie Cotte</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>Nathalie Cotte</title>
-      <link>https://eqsci.mit.edu/author/nathalie-cotte/</link>
-    </image>
-    
+    <description>Recent content in Nathalie Cotte on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 01 Aug 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/nathalie-cotte/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>A geodetic matched-filter search for slow slip with application to the Mexico subduction zone</title>
       <link>https://eqsci.mit.edu/publication/rousset-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/rousset-2017/</guid>
       <description></description>
     </item>
@@ -24,6 +20,7 @@
       <title>Uncovering the geodetic signature of silent slip through repeating earthquakes</title>
       <link>https://eqsci.mit.edu/publication/frank-2015-b/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/frank-2015-b/</guid>
       <description></description>
     </item>

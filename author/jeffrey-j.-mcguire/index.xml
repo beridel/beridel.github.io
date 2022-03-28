@@ -1,21 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jeffrey J. McGuire | Earthquake Science</title>
+    <title>Jeffrey J. McGuire on Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/jeffrey-j.-mcguire/</link>
-      <atom:link href="https://eqsci.mit.edu/author/jeffrey-j.-mcguire/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jeffrey J. McGuire</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>Jeffrey J. McGuire</title>
-      <link>https://eqsci.mit.edu/author/jeffrey-j.-mcguire/</link>
-    </image>
-    
+    <description>Recent content in Jeffrey J. McGuire on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/jeffrey-j.-mcguire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dynamic Triggering and Earthquake Swarms on East Pacific Rise Transform Faults</title>
       <link>https://eqsci.mit.edu/publication/cattania-2017-k/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/cattania-2017-k/</guid>
       <description></description>
     </item>

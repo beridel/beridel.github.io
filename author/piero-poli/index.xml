@@ -1,21 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Piero Poli | Earthquake Science</title>
+    <title>Piero Poli on Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/piero-poli/</link>
-      <atom:link href="https://eqsci.mit.edu/author/piero-poli/index.xml" rel="self" type="application/rss+xml" />
-    <description>Piero Poli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 May 2017 00:00:00 +0000</lastBuildDate>
-    <image>
-      <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>Piero Poli</title>
-      <link>https://eqsci.mit.edu/author/piero-poli/</link>
-    </image>
+    <description>Recent content in Piero Poli on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/piero-poli/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tracking the Spatio-Temporal Evolution of Foreshocks Preceding the Mw 6.1 2009 L’Aquila Earthquake</title>
+      <link>https://eqsci.mit.edu/publication/cabrera-2022/</link>
+      <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/publication/cabrera-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mapping the rheology of the Central Chile subduction zone with aftershocks</title>
       <link>https://eqsci.mit.edu/publication/frank-2017-a/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
+      
       <guid>https://eqsci.mit.edu/publication/frank-2017-a/</guid>
       <description></description>
     </item>
