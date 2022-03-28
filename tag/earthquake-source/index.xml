@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>earthquake source on Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/earthquake-source/</link>
+    <description>Recent content in earthquake source on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/tag/earthquake-source/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Moment-duration scaling of low-frequency earthquakes in Guerrero, Mexico</title>
+      <link>https://eqsci.mit.edu/publication/farge-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/publication/farge-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Daily measurement of slow slip from low-frequency earthquakes is consistent with ordinary earthquake scaling</title>
+      <link>https://eqsci.mit.edu/publication/frank-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/publication/frank-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

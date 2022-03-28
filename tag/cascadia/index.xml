@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cascadia on Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/cascadia/</link>
+    <description>Recent content in Cascadia on Earthquake Science</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Sep 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/tag/cascadia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Imbricated slip rate processes during slow slip transients imaged by low-frequency earthquakes</title>
+      <link>https://eqsci.mit.edu/publication/lengline-2017/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/publication/lengline-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Slow slip hidden in the noise: the intermittence of tectonic release</title>
+      <link>https://eqsci.mit.edu/publication/frank-2016-c/</link>
+      <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://eqsci.mit.edu/publication/frank-2016-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
