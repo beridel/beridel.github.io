@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>clustering on Earthquake Science</title>
+    <title>clustering | Earthquake Science</title>
     <link>https://eqsci.mit.edu/tag/clustering/</link>
-    <description>Recent content in clustering on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/tag/clustering/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eqsci.mit.edu/tag/clustering/index.xml" rel="self" type="application/rss+xml" />
+    <description>clustering</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>clustering</title>
+      <link>https://eqsci.mit.edu/tag/clustering/</link>
+    </image>
+    
     <item>
       <title>Tracking the Spatio-Temporal Evolution of Foreshocks Preceding the Mw 6.1 2009 L’Aquila Earthquake</title>
       <link>https://eqsci.mit.edu/publication/cabrera-2022/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cabrera-2022/</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>An Adaptable Random Forest Model for the Declustering of Earthquake Catalogs</title>
       <link>https://eqsci.mit.edu/publication/aden-2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/aden-2022/</guid>
       <description></description>
     </item>
@@ -29,7 +32,6 @@
       <title>Systematic Detection of Clustered Seismicity Beneath the Southwestern Alps</title>
       <link>https://eqsci.mit.edu/publication/beauce-2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/beauce-2019/</guid>
       <description></description>
     </item>
@@ -38,7 +40,6 @@
       <title>Progressive reactivation of the volcanic plumbing system beneath Tolbachik volcano (Kamchatka, Russia) revealed by long-period seismicity</title>
       <link>https://eqsci.mit.edu/publication/frank-2018-b/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2018-b/</guid>
       <description></description>
     </item>
@@ -47,7 +48,6 @@
       <title>A Nonplanar Slow Rupture Episode during the 2000 Miyakejima Dike Intrusion</title>
       <link>https://eqsci.mit.edu/publication/cattania-2017-d/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2017-d/</guid>
       <description></description>
     </item>
@@ -56,7 +56,6 @@
       <title>The evolving interaction of low-frequency earthquakes during transient slip</title>
       <link>https://eqsci.mit.edu/publication/frank-2016-a/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2016-a/</guid>
       <description></description>
     </item>
@@ -65,7 +64,6 @@
       <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2014/</guid>
       <description></description>
     </item>
@@ -74,7 +72,6 @@
       <title>The Relationship between Afterslip and Aftershocks: A Study Based on Coulomb-Rate-and-State Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2014-b/</guid>
       <description></description>
     </item>

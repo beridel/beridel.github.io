@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abigail Jimenez on Earthquake Science</title>
+    <title>Abigail Jimenez | Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/abigail-jimenez/</link>
-    <description>Recent content in Abigail Jimenez on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/abigail-jimenez/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eqsci.mit.edu/author/abigail-jimenez/index.xml" rel="self" type="application/rss+xml" />
+    <description>Abigail Jimenez</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Abigail Jimenez</title>
+      <link>https://eqsci.mit.edu/author/abigail-jimenez/</link>
+    </image>
+    
     <item>
       <title>The Forecasting Skill of Physics-based Seismicity Models during the 2010–2012 Canterbury, New Zealand, Earthquake Sequence</title>
       <link>https://eqsci.mit.edu/publication/cattania-2018/</link>
       <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2018/</guid>
       <description></description>
     </item>

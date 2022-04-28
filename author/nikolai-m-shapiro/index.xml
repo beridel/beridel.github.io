@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nikolaï M Shapiro on Earthquake Science</title>
+    <title>Nikolaï M Shapiro | Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/nikolai-m-shapiro/</link>
-    <description>Recent content in Nikolaï M Shapiro on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/nikolai-m-shapiro/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eqsci.mit.edu/author/nikolai-m-shapiro/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nikolaï M Shapiro</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Nikolaï M Shapiro</title>
+      <link>https://eqsci.mit.edu/author/nikolai-m-shapiro/</link>
+    </image>
+    
     <item>
       <title>Moment-duration scaling of low-frequency earthquakes in Guerrero, Mexico</title>
       <link>https://eqsci.mit.edu/publication/farge-2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/farge-2020/</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>Progressive reactivation of the volcanic plumbing system beneath Tolbachik volcano (Kamchatka, Russia) revealed by long-period seismicity</title>
       <link>https://eqsci.mit.edu/publication/frank-2018-b/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2018-b/</guid>
       <description></description>
     </item>
@@ -29,7 +32,6 @@
       <title>Repeating seismicity in the shallow crust modulated by transient stress perturbations</title>
       <link>https://eqsci.mit.edu/publication/frank-2016-b/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2016-b/</guid>
       <description></description>
     </item>
@@ -38,7 +40,6 @@
       <title>The evolving interaction of low-frequency earthquakes during transient slip</title>
       <link>https://eqsci.mit.edu/publication/frank-2016-a/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2016-a/</guid>
       <description></description>
     </item>
@@ -47,7 +48,6 @@
       <title>Uncovering the geodetic signature of silent slip through repeating earthquakes</title>
       <link>https://eqsci.mit.edu/publication/frank-2015-b/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2015-b/</guid>
       <description></description>
     </item>
@@ -56,7 +56,6 @@
       <title>Along-fault pore-pressure evolution during a slow-slip event in Guerrero, Mexico</title>
       <link>https://eqsci.mit.edu/publication/frank-2015-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2015-a/</guid>
       <description></description>
     </item>
@@ -65,7 +64,6 @@
       <title>Using systematically characterized low-frequency earthquakes as a fault probe in Guerrero, Mexico</title>
       <link>https://eqsci.mit.edu/publication/frank-2014-b/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2014-b/</guid>
       <description></description>
     </item>
@@ -74,7 +72,6 @@
       <title>Automatic detection of low-frequency earthquakes (LFEs) based on a beamformed network response</title>
       <link>https://eqsci.mit.edu/publication/frank-2014-a/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2014-a/</guid>
       <description></description>
     </item>
@@ -83,7 +80,6 @@
       <title>Low-frequency earthquakes in the Mexican Sweet Spot</title>
       <link>https://eqsci.mit.edu/publication/frank-2013/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2013/</guid>
       <description></description>
     </item>

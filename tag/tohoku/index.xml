@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tohoku on Earthquake Science</title>
+    <title>Tohoku | Earthquake Science</title>
     <link>https://eqsci.mit.edu/tag/tohoku/</link>
-    <description>Recent content in Tohoku on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/tag/tohoku/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eqsci.mit.edu/tag/tohoku/index.xml" rel="self" type="application/rss+xml" />
+    <description>Tohoku</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Tohoku</title>
+      <link>https://eqsci.mit.edu/tag/tohoku/</link>
+    </image>
+    
     <item>
       <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2014/</guid>
       <description></description>
     </item>
@@ -20,7 +24,6 @@
       <title>The Relationship between Afterslip and Aftershocks: A Study Based on Coulomb-Rate-and-State Models</title>
       <link>https://eqsci.mit.edu/publication/cattania-2014-b/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2014-b/</guid>
       <description></description>
     </item>

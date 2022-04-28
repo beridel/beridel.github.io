@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>New Zealand on Earthquake Science</title>
+    <title>New Zealand | Earthquake Science</title>
     <link>https://eqsci.mit.edu/tag/new-zealand/</link>
-    <description>Recent content in New Zealand on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/tag/new-zealand/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eqsci.mit.edu/tag/new-zealand/index.xml" rel="self" type="application/rss+xml" />
+    <description>New Zealand</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>New Zealand</title>
+      <link>https://eqsci.mit.edu/tag/new-zealand/</link>
+    </image>
+    
     <item>
       <title>Illuminating the Pre-, Co-, and Post-Seismic Phases of the 2016 M7.8 Kaikōura Earthquake With 10 Years of Seismicity</title>
       <link>https://eqsci.mit.edu/publication/chamberlain-2021/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/chamberlain-2021/</guid>
       <description></description>
     </item>

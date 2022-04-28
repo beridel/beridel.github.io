@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yosuke Aoki on Earthquake Science</title>
+    <title>Yosuke Aoki | Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/yosuke-aoki/</link>
-    <description>Recent content in Yosuke Aoki on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/yosuke-aoki/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eqsci.mit.edu/author/yosuke-aoki/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yosuke Aoki</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Yosuke Aoki</title>
+      <link>https://eqsci.mit.edu/author/yosuke-aoki/</link>
+    </image>
+    
     <item>
       <title>A Nonplanar Slow Rupture Episode during the 2000 Miyakejima Dike Intrusion</title>
       <link>https://eqsci.mit.edu/publication/cattania-2017-d/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cattania-2017-d/</guid>
       <description></description>
     </item>

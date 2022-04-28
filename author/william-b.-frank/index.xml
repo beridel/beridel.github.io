@@ -1,17 +1,29 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>William B. Frank on Earthquake Science</title>
+    <title>William B. Frank | Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/william-b.-frank/</link>
-    <description>Recent content in William B. Frank on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/william-b.-frank/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eqsci.mit.edu/author/william-b.-frank/index.xml" rel="self" type="application/rss+xml" />
+    <description>William B. Frank</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>William B. Frank</title>
+      <link>https://eqsci.mit.edu/author/william-b.-frank/</link>
+    </image>
+    
+    <item>
+      <title>Crustal structure across the West Antarctic rift system from multicomponent ambient noise surface wave tomography</title>
+      <link>https://eqsci.mit.edu/publication/mikesell-2022/</link>
+      <pubDate>Wed, 27 Apr 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/mikesell-2022/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Tracking the Spatio-Temporal Evolution of Foreshocks Preceding the Mw 6.1 2009 L’Aquila Earthquake</title>
       <link>https://eqsci.mit.edu/publication/cabrera-2022/</link>
       <pubDate>Mon, 07 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/cabrera-2022/</guid>
       <description></description>
     </item>
@@ -20,7 +32,6 @@
       <title>An Adaptable Random Forest Model for the Declustering of Earthquake Catalogs</title>
       <link>https://eqsci.mit.edu/publication/aden-2022/</link>
       <pubDate>Tue, 01 Mar 2022 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/aden-2022/</guid>
       <description></description>
     </item>
@@ -29,7 +40,6 @@
       <title>Crust and upper-mantle seismic anisotropy variations from the coast to inland in central and Southern Mexico (2): Correlations with Tectonic Tremor</title>
       <link>https://eqsci.mit.edu/publication/husker-2021/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/husker-2021/</guid>
       <description></description>
     </item>
@@ -38,7 +48,6 @@
       <title>Illuminating the Pre-, Co-, and Post-Seismic Phases of the 2016 M7.8 Kaikōura Earthquake With 10 Years of Seismicity</title>
       <link>https://eqsci.mit.edu/publication/chamberlain-2021/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/chamberlain-2021/</guid>
       <description></description>
     </item>
@@ -47,7 +56,6 @@
       <title>Moment-duration scaling of low-frequency earthquakes in Guerrero, Mexico</title>
       <link>https://eqsci.mit.edu/publication/farge-2020/</link>
       <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/farge-2020/</guid>
       <description></description>
     </item>
@@ -56,7 +64,6 @@
       <title>Statistical evidence of a seismic quiescence before the M$_w$8.1 Iquique earthquake, Chile</title>
       <link>https://eqsci.mit.edu/publication/aden-2020/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/aden-2020/</guid>
       <description></description>
     </item>
@@ -65,7 +72,6 @@
       <title>The transient and intermittent nature of slow slip</title>
       <link>https://eqsci.mit.edu/publication/jolivet-2020/</link>
       <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/jolivet-2020/</guid>
       <description></description>
     </item>
@@ -74,7 +80,6 @@
       <title>Daily measurement of slow slip from low-frequency earthquakes is consistent with ordinary earthquake scaling</title>
       <link>https://eqsci.mit.edu/publication/frank-2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2019/</guid>
       <description></description>
     </item>
@@ -83,7 +88,6 @@
       <title>Systematic Detection of Clustered Seismicity Beneath the Southwestern Alps</title>
       <link>https://eqsci.mit.edu/publication/beauce-2019/</link>
       <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/beauce-2019/</guid>
       <description></description>
     </item>
@@ -92,7 +96,6 @@
       <title>Isolated Triggered Tremor Spots in South America: Southern Chile, Ecuador, and Central Colombia</title>
       <link>https://eqsci.mit.edu/publication/chao-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/chao-2019/</guid>
       <description></description>
     </item>
@@ -101,7 +104,6 @@
       <title>Characteristic tectonic tremor activity observed over multiple slow slip cycles in the Mexican subduction zone</title>
       <link>https://eqsci.mit.edu/publication/husker-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/husker-2019/</guid>
       <description></description>
     </item>
@@ -110,7 +112,6 @@
       <title>Updip and along-strike aftershock migration model driven by afterslip: application to the 2011 Tohoku-Oki aftershock sequence</title>
       <link>https://eqsci.mit.edu/publication/perfettini-2019/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/perfettini-2019/</guid>
       <description></description>
     </item>
@@ -119,7 +120,6 @@
       <title>Revealing the cluster of slow transients behind a large slow slip event</title>
       <link>https://eqsci.mit.edu/publication/frank-2018-c/</link>
       <pubDate>Tue, 01 May 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2018-c/</guid>
       <description></description>
     </item>
@@ -128,7 +128,6 @@
       <title>Progressive reactivation of the volcanic plumbing system beneath Tolbachik volcano (Kamchatka, Russia) revealed by long-period seismicity</title>
       <link>https://eqsci.mit.edu/publication/frank-2018-b/</link>
       <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2018-b/</guid>
       <description></description>
     </item>
@@ -137,7 +136,6 @@
       <title>A model for migration of aftershocks driven by afterslip</title>
       <link>https://eqsci.mit.edu/publication/perfettini-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/perfettini-2018/</guid>
       <description></description>
     </item>
@@ -146,7 +144,6 @@
       <title>Adapting the matched-filter search to a wide-aperture network: an aftershock sequence and an earthquake swarm in Connecticut</title>
       <link>https://eqsci.mit.edu/publication/frank-2018-a/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2018-a/</guid>
       <description></description>
     </item>
@@ -155,7 +152,6 @@
       <title>Fast matched-filter (FMF): an efficient seismic matched-filter search for both CPU and GPU architectures</title>
       <link>https://eqsci.mit.edu/publication/beauce-2017/</link>
       <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/beauce-2017/</guid>
       <description></description>
     </item>
@@ -164,7 +160,6 @@
       <title>Imbricated slip rate processes during slow slip transients imaged by low-frequency earthquakes</title>
       <link>https://eqsci.mit.edu/publication/lengline-2017/</link>
       <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/lengline-2017/</guid>
       <description></description>
     </item>
@@ -173,7 +168,6 @@
       <title>A geodetic matched-filter search for slow slip with application to the Mexico subduction zone</title>
       <link>https://eqsci.mit.edu/publication/rousset-2017/</link>
       <pubDate>Tue, 01 Aug 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/rousset-2017/</guid>
       <description></description>
     </item>
@@ -182,7 +176,6 @@
       <title>Mapping the rheology of the Central Chile subduction zone with aftershocks</title>
       <link>https://eqsci.mit.edu/publication/frank-2017-a/</link>
       <pubDate>Mon, 01 May 2017 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2017-a/</guid>
       <description></description>
     </item>
@@ -191,7 +184,6 @@
       <title>Repeating seismicity in the shallow crust modulated by transient stress perturbations</title>
       <link>https://eqsci.mit.edu/publication/frank-2016-b/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2016-b/</guid>
       <description></description>
     </item>
@@ -200,7 +192,6 @@
       <title>Slow slip hidden in the noise: the intermittence of tectonic release</title>
       <link>https://eqsci.mit.edu/publication/frank-2016-c/</link>
       <pubDate>Thu, 01 Sep 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2016-c/</guid>
       <description></description>
     </item>
@@ -209,7 +200,6 @@
       <title>The evolving interaction of low-frequency earthquakes during transient slip</title>
       <link>https://eqsci.mit.edu/publication/frank-2016-a/</link>
       <pubDate>Fri, 01 Apr 2016 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2016-a/</guid>
       <description></description>
     </item>
@@ -218,7 +208,6 @@
       <title>Spatial-temporal variation of low-frequency earthquake bursts near Parkfield, California</title>
       <link>https://eqsci.mit.edu/publication/wu-2015/</link>
       <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/wu-2015/</guid>
       <description></description>
     </item>
@@ -227,7 +216,6 @@
       <title>Uncovering the geodetic signature of silent slip through repeating earthquakes</title>
       <link>https://eqsci.mit.edu/publication/frank-2015-b/</link>
       <pubDate>Wed, 01 Apr 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2015-b/</guid>
       <description></description>
     </item>
@@ -236,7 +224,6 @@
       <title>Along-fault pore-pressure evolution during a slow-slip event in Guerrero, Mexico</title>
       <link>https://eqsci.mit.edu/publication/frank-2015-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2015-a/</guid>
       <description></description>
     </item>
@@ -245,7 +232,6 @@
       <title>Using systematically characterized low-frequency earthquakes as a fault probe in Guerrero, Mexico</title>
       <link>https://eqsci.mit.edu/publication/frank-2014-b/</link>
       <pubDate>Mon, 01 Sep 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2014-b/</guid>
       <description></description>
     </item>
@@ -254,7 +240,6 @@
       <title>Automatic detection of low-frequency earthquakes (LFEs) based on a beamformed network response</title>
       <link>https://eqsci.mit.edu/publication/frank-2014-a/</link>
       <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2014-a/</guid>
       <description></description>
     </item>
@@ -263,7 +248,6 @@
       <title>Low-frequency earthquakes in the Mexican Sweet Spot</title>
       <link>https://eqsci.mit.edu/publication/frank-2013/</link>
       <pubDate>Wed, 01 May 2013 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/frank-2013/</guid>
       <description></description>
     </item>

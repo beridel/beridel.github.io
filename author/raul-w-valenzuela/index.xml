@@ -1,17 +1,21 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Raúl W Valenzuela on Earthquake Science</title>
+    <title>Raúl W Valenzuela | Earthquake Science</title>
     <link>https://eqsci.mit.edu/author/raul-w-valenzuela/</link>
-    <description>Recent content in Raúl W Valenzuela on Earthquake Science</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://eqsci.mit.edu/author/raul-w-valenzuela/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://eqsci.mit.edu/author/raul-w-valenzuela/index.xml" rel="self" type="application/rss+xml" />
+    <description>Raúl W Valenzuela</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 22 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Raúl W Valenzuela</title>
+      <link>https://eqsci.mit.edu/author/raul-w-valenzuela/</link>
+    </image>
+    
     <item>
       <title>Crust and upper-mantle seismic anisotropy variations from the coast to inland in central and Southern Mexico (2): Correlations with Tectonic Tremor</title>
       <link>https://eqsci.mit.edu/publication/husker-2021/</link>
       <pubDate>Fri, 22 Oct 2021 00:00:00 +0000</pubDate>
-      
       <guid>https://eqsci.mit.edu/publication/husker-2021/</guid>
       <description></description>
     </item>
