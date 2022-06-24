@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/author/mathilde-wimez/</link>
       <atom:link href="https://eqsci.mit.edu/author/mathilde-wimez/index.xml" rel="self" type="application/rss+xml" />
     <description>Mathilde Wimez</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Mathilde Wimez</title>
       <link>https://eqsci.mit.edu/author/mathilde-wimez/</link>
     </image>
+    
+    <item>
+      <title>A recursive matched-filter to systematically explore a volcanic long-period earthquake swarm</title>
+      <link>https://eqsci.mit.edu/publication/wimez-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/wimez-2022/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

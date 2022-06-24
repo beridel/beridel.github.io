@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/detection/</link>
       <atom:link href="https://eqsci.mit.edu/tag/detection/index.xml" rel="self" type="application/rss+xml" />
     <description>detection</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>detection</title>
       <link>https://eqsci.mit.edu/tag/detection/</link>
     </image>
+    
+    <item>
+      <title>A recursive matched-filter to systematically explore a volcanic long-period earthquake swarm</title>
+      <link>https://eqsci.mit.edu/publication/wimez-2022/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/wimez-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Illuminating the Pre-, Co-, and Post-Seismic Phases of the 2016 M7.8 Kaikōura Earthquake With 10 Years of Seismicity</title>
