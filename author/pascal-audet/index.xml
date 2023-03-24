@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pascal Audet | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/pascal-audet/</link>
+      <atom:link href="https://eqsci.mit.edu/author/pascal-audet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Pascal Audet</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Pascal Audet</title>
+      <link>https://eqsci.mit.edu/author/pascal-audet/</link>
+    </image>
+    
+    <item>
+      <title>Capturing seismic velocity changes in receiver functions with optimal transport</title>
+      <link>https://eqsci.mit.edu/publication/bryan-2023/</link>
+      <pubDate>Thu, 23 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/bryan-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
