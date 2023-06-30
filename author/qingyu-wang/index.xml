@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/author/qingyu-wang/</link>
       <atom:link href="https://eqsci.mit.edu/author/qingyu-wang/index.xml" rel="self" type="application/rss+xml" />
     <description>Qingyu Wang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Qingyu Wang</title>
       <link>https://eqsci.mit.edu/author/qingyu-wang/</link>
     </image>
+    
+    <item>
+      <title>In-situ monitoring of rock slope destabilization with ambient seismic noise interferometry in southwest China</title>
+      <link>https://eqsci.mit.edu/publication/xie-2022/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/xie-2022/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

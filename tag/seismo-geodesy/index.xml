@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/seismo-geodesy/</link>
       <atom:link href="https://eqsci.mit.edu/tag/seismo-geodesy/index.xml" rel="self" type="application/rss+xml" />
     <description>seismo-geodesy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>seismo-geodesy</title>
       <link>https://eqsci.mit.edu/tag/seismo-geodesy/</link>
     </image>
+    
+    <item>
+      <title>Subdaily Slow Fault Slip Dynamics Captured by Low-Frequency Earthquakes</title>
+      <link>https://eqsci.mit.edu/publication/mouchon-2023/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/mouchon-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The transient and intermittent nature of slow slip</title>

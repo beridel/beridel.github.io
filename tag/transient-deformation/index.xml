@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Transient deformation | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/tag/transient-deformation/</link>
+      <atom:link href="https://eqsci.mit.edu/tag/transient-deformation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Transient deformation</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 15 May 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Transient deformation</title>
+      <link>https://eqsci.mit.edu/tag/transient-deformation/</link>
+    </image>
+    
+    <item>
+      <title>Independent component analysis and parametric approach for source separation in InSAR time series at regional scale: application to the 2017--2018 Slow Slip Event in Guerrero (Mexico)</title>
+      <link>https://eqsci.mit.edu/publication/maubant-2020/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/maubant-2020/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

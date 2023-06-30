@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/earthquake-cycle/</link>
       <atom:link href="https://eqsci.mit.edu/tag/earthquake-cycle/index.xml" rel="self" type="application/rss+xml" />
     <description>earthquake cycle</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>earthquake cycle</title>
       <link>https://eqsci.mit.edu/tag/earthquake-cycle/</link>
     </image>
+    
+    <item>
+      <title>Interseismic coupling along the Mexican subduction zone seen by InSAR and GNSS</title>
+      <link>https://eqsci.mit.edu/publication/maubant-2022/</link>
+      <pubDate>Sun, 15 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/maubant-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>The Community Code Verification Exercise for Simulating Sequences of Earthquakes and Aseismic Slip (SEAS)</title>

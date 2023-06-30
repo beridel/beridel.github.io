@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/precursors/</link>
       <atom:link href="https://eqsci.mit.edu/tag/precursors/index.xml" rel="self" type="application/rss+xml" />
     <description>precursors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 May 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 24 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>precursors</title>
       <link>https://eqsci.mit.edu/tag/precursors/</link>
     </image>
+    
+    <item>
+      <title>In-situ monitoring of rock slope destabilization with ambient seismic noise interferometry in southwest China</title>
+      <link>https://eqsci.mit.edu/publication/xie-2022/</link>
+      <pubDate>Thu, 24 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/xie-2022/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Statistical evidence of a seismic quiescence before the M$_w$8.1 Iquique earthquake, Chile</title>
