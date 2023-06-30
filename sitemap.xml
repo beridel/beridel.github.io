@@ -4,13 +4,13 @@
   <url>
     <loc>https://eqsci.mit.edu/author/camilla-cattania/</loc>
   </url><url>
-    <loc>https://eqsci.mit.edu/author/william-b.-frank/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://eqsci.mit.edu/publication-type/2/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/authors/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/author/caroline-mouchon/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/</loc>
@@ -19,25 +19,22 @@
     <loc>https://eqsci.mit.edu/tag/low-frequency-earthquakes/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/tag/mexico/</loc>
+    <loc>https://eqsci.mit.edu/author/mathilde-radiguet/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/author/mouchonc/</loc>
+    <loc>https://eqsci.mit.edu/tag/mexico/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/author/nathalie-cotte/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/author/ppoli/</loc>
+    <loc>https://eqsci.mit.edu/author/piero-poli/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/publication_types/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/publication/</loc>
-    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/author/radiguet/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tag/seismo-geodesy/</loc>
@@ -53,6 +50,9 @@
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tags/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://eqsci.mit.edu/author/william-b.-frank/</loc>
     <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/publication/bryan-2023/</loc>
@@ -169,13 +169,13 @@
     <loc>https://eqsci.mit.edu/publication/maubant-2022/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://eqsci.mit.edu/author/louise-maubant/</loc>
+    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://eqsci.mit.edu/author/marie-pierre-doin/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/author/mathilde-radiguet/</loc>
-    <lastmod>2022-05-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://eqsci.mit.edu/author/maubantl/</loc>
     <lastmod>2022-05-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tag/plate-coupling/</loc>
@@ -226,7 +226,7 @@
     <loc>https://eqsci.mit.edu/author/florent-aden-antoniow/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/author/leonard-simon-seydoux/</loc>
+    <loc>https://eqsci.mit.edu/author/leonard-s.-seydoux/</loc>
     <lastmod>2022-02-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/author/allen-husker/</loc>
@@ -415,10 +415,10 @@
     <loc>https://eqsci.mit.edu/publication/frank-2019/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/author/ebeauce/</loc>
+    <loc>https://eqsci.mit.edu/author/emily-e-brodsky/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/author/emily-e-brodsky/</loc>
+    <loc>https://eqsci.mit.edu/author/eric-beauce/</loc>
     <lastmod>2019-10-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/tag/high-performance-computing/</loc>
@@ -586,7 +586,7 @@
     <loc>https://eqsci.mit.edu/tag/intraplate/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://eqsci.mit.edu/author/rea/</loc>
+    <loc>https://eqsci.mit.edu/author/rachel-e.-abercrombie/</loc>
     <lastmod>2018-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://eqsci.mit.edu/author/alexey-romanenko/</loc>
@@ -789,9 +789,19 @@
   </url><url>
     <loc>https://eqsci.mit.edu/author/</loc>
   </url><url>
+    <loc>https://eqsci.mit.edu/author/ayako-tsuchiyama/</loc>
+  </url><url>
     <loc>https://eqsci.mit.edu/author/caroline-mouchon/</loc>
   </url><url>
     <loc>https://eqsci.mit.edu/categories/</loc>
+  </url><url>
+    <loc>https://eqsci.mit.edu/author/emile-denise/</loc>
+  </url><url>
+    <loc>https://eqsci.mit.edu/author/jade-eyles/</loc>
+  </url><url>
+    <loc>https://eqsci.mit.edu/author/rania-milki/</loc>
+  </url><url>
+    <loc>https://eqsci.mit.edu/author/yichen-geng/</loc>
   </url><url>
     <loc>https://eqsci.mit.edu/author/yudong-sun/</loc>
   </url>

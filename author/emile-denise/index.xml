@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Emile Denise | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/emile-denise/</link>
+      <atom:link href="https://eqsci.mit.edu/author/emile-denise/index.xml" rel="self" type="application/rss+xml" />
+    <description>Emile Denise</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Emile Denise</title>
+      <link>https://eqsci.mit.edu/author/emile-denise/</link>
+    </image>
+    
+  </channel>
+</rss>

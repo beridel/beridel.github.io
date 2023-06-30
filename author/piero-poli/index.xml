@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/author/piero-poli/</link>
       <atom:link href="https://eqsci.mit.edu/author/piero-poli/index.xml" rel="self" type="application/rss+xml" />
     <description>Piero Poli</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Piero Poli</title>
       <link>https://eqsci.mit.edu/author/piero-poli/</link>
     </image>
+    
+    <item>
+      <title>Subdaily slow fault slip dynamics captured by low-frequency earthquakes</title>
+      <link>https://eqsci.mit.edu/publication/mouchon-2023/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/mouchon-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Tracking the Spatio-Temporal Evolution of Foreshocks Preceding the Mw 6.1 2009 L’Aquila Earthquake</title>
