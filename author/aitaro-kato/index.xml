@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aitaro Kato | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/aitaro-kato/</link>
+      <atom:link href="https://eqsci.mit.edu/author/aitaro-kato/index.xml" rel="self" type="application/rss+xml" />
+    <description>Aitaro Kato</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Aitaro Kato</title>
+      <link>https://eqsci.mit.edu/author/aitaro-kato/</link>
+    </image>
+    
+    <item>
+      <title>What makes low-frequency earthquakes low frequency</title>
+      <link>https://eqsci.mit.edu/publication/wang-2023/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/wang-2023/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

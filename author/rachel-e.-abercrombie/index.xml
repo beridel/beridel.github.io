@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/author/rachel-e.-abercrombie/</link>
       <atom:link href="https://eqsci.mit.edu/author/rachel-e.-abercrombie/index.xml" rel="self" type="application/rss+xml" />
     <description>Rachel E. Abercrombie</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Rachel E. Abercrombie</title>
       <link>https://eqsci.mit.edu/author/rachel-e.-abercrombie/</link>
     </image>
+    
+    <item>
+      <title>What makes low-frequency earthquakes low frequency</title>
+      <link>https://eqsci.mit.edu/publication/wang-2023/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/wang-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Adapting the matched-filter search to a wide-aperture network: an aftershock sequence and an earthquake swarm in Connecticut</title>
