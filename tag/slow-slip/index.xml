@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/slow-slip/</link>
       <atom:link href="https://eqsci.mit.edu/tag/slow-slip/index.xml" rel="self" type="application/rss+xml" />
     <description>slow slip</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>slow slip</title>
       <link>https://eqsci.mit.edu/tag/slow-slip/</link>
     </image>
+    
+    <item>
+      <title>Imaging the Spatiotemporal Evolution of Plate Coupling With Interferometric Radar (InSAR) in the Hikurangi Subduction Zone</title>
+      <link>https://eqsci.mit.edu/publication/maubant-2023/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/maubant-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Subdaily slow fault slip dynamics captured by low-frequency earthquakes</title>
