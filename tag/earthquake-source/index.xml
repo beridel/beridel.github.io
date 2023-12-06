@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/earthquake-source/</link>
       <atom:link href="https://eqsci.mit.edu/tag/earthquake-source/index.xml" rel="self" type="application/rss+xml" />
     <description>earthquake source</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>earthquake source</title>
       <link>https://eqsci.mit.edu/tag/earthquake-source/</link>
     </image>
+    
+    <item>
+      <title>Along-strike segmentation of seismic tremor and its relationship with the hydraulic structure of the subduction fault zone</title>
+      <link>https://eqsci.mit.edu/publication/farge-2023/</link>
+      <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/farge-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>What makes low-frequency earthquakes low frequency</title>

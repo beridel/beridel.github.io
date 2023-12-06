@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/author/leonard-s.-seydoux/</link>
       <atom:link href="https://eqsci.mit.edu/author/leonard-s.-seydoux/index.xml" rel="self" type="application/rss+xml" />
     <description>Leonard S. Seydoux</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Leonard S. Seydoux</title>
       <link>https://eqsci.mit.edu/author/leonard-s.-seydoux/</link>
     </image>
+    
+    <item>
+      <title></title>
+      <link>https://eqsci.mit.edu/publication/beauce-2023/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/beauce-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An adaptable random forest model for the declustering of earthquake catalogs</title>

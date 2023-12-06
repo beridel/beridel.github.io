@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gaspard Farge | Earthquake Science</title>
-    <link>https://eqsci.mit.edu/author/gaspard-farge/</link>
-      <atom:link href="https://eqsci.mit.edu/author/gaspard-farge/index.xml" rel="self" type="application/rss+xml" />
-    <description>Gaspard Farge</description>
+    <title>Claude Jaupart | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/claude-jaupart/</link>
+      <atom:link href="https://eqsci.mit.edu/author/claude-jaupart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Claude Jaupart</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 28 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
-      <title>Gaspard Farge</title>
-      <link>https://eqsci.mit.edu/author/gaspard-farge/</link>
+      <title>Claude Jaupart</title>
+      <link>https://eqsci.mit.edu/author/claude-jaupart/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://eqsci.mit.edu/publication/farge-2023/</link>
       <pubDate>Tue, 28 Nov 2023 00:00:00 +0000</pubDate>
       <guid>https://eqsci.mit.edu/publication/farge-2023/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Moment-duration scaling of low-frequency earthquakes in Guerrero, Mexico</title>
-      <link>https://eqsci.mit.edu/publication/farge-2020/</link>
-      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
-      <guid>https://eqsci.mit.edu/publication/farge-2020/</guid>
       <description></description>
     </item>
     
