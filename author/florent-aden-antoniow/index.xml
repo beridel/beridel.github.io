@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/author/florent-aden-antoniow/</link>
       <atom:link href="https://eqsci.mit.edu/author/florent-aden-antoniow/index.xml" rel="self" type="application/rss+xml" />
     <description>Florent Aden-Antoniow</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Florent Aden-Antoniow</title>
       <link>https://eqsci.mit.edu/author/florent-aden-antoniow/</link>
     </image>
+    
+    <item>
+      <title>Low-Frequency Earthquakes Downdip of Deep Slow Slip Beneath the North Island of New Zealand</title>
+      <link>https://eqsci.mit.edu/publication/aden-2024/</link>
+      <pubDate>Fri, 10 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/aden-2024/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An adaptable random forest model for the declustering of earthquake catalogs</title>
