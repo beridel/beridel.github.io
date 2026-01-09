@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/author/david-marsan/</link>
       <atom:link href="https://eqsci.mit.edu/author/david-marsan/index.xml" rel="self" type="application/rss+xml" />
     <description>David Marsan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>David Marsan</title>
       <link>https://eqsci.mit.edu/author/david-marsan/</link>
     </image>
+    
+    <item>
+      <title>A systematic search for tectonic tremor and low‐frequency earthquakes in the Atacama segment of the Chilean subduction zone turns up empty</title>
+      <link>https://eqsci.mit.edu/publication/munchmeyer-2025/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/munchmeyer-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep learning detects uncataloged low-frequency earthquakes across regions</title>

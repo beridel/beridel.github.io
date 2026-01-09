@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/optimal-transport/</link>
       <atom:link href="https://eqsci.mit.edu/tag/optimal-transport/index.xml" rel="self" type="application/rss+xml" />
     <description>optimal transport</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 23 Mar 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>optimal transport</title>
       <link>https://eqsci.mit.edu/tag/optimal-transport/</link>
     </image>
+    
+    <item>
+      <title>Crustal stresses and damage evolve throughout the seismic cycle of the Ridgecrest fault zone</title>
+      <link>https://eqsci.mit.edu/publication/bryan-2025/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/bryan-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Capturing seismic velocity changes in receiver functions with optimal transport</title>

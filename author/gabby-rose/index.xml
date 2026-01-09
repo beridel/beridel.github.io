@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gabby Rose | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/gabby-rose/</link>
+      <atom:link href="https://eqsci.mit.edu/author/gabby-rose/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gabby Rose</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Gabby Rose</title>
+      <link>https://eqsci.mit.edu/author/gabby-rose/</link>
+    </image>
+    
+  </channel>
+</rss>

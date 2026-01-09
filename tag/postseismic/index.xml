@@ -5,12 +5,28 @@
     <link>https://eqsci.mit.edu/tag/postseismic/</link>
       <atom:link href="https://eqsci.mit.edu/tag/postseismic/index.xml" rel="self" type="application/rss+xml" />
     <description>postseismic</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 21 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 18 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>postseismic</title>
       <link>https://eqsci.mit.edu/tag/postseismic/</link>
     </image>
+    
+    <item>
+      <title>Crustal stresses and damage evolve throughout the seismic cycle of the Ridgecrest fault zone</title>
+      <link>https://eqsci.mit.edu/publication/bryan-2025/</link>
+      <pubDate>Thu, 18 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/bryan-2025/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://eqsci.mit.edu/publication/liu-2025/</link>
+      <pubDate>Mon, 01 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/liu-2025/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Illuminating the Pre-, Co-, and Post-Seismic Phases of the 2016 M7.8 Kaikōura Earthquake With 10 Years of Seismicity</title>
