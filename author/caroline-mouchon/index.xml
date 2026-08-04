@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/author/caroline-mouchon/</link>
       <atom:link href="https://eqsci.mit.edu/author/caroline-mouchon/index.xml" rel="self" type="application/rss+xml" />
     <description>Caroline Mouchon</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 28 Jun 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Caroline Mouchon</title>
       <link>https://eqsci.mit.edu/author/caroline-mouchon/</link>
     </image>
+    
+    <item>
+      <title>Subdaily slow fault slip dynamics captured by low-frequency earthquakes</title>
+      <link>https://eqsci.mit.edu/publication/mouchon-2023/</link>
+      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/mouchon-2023/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
