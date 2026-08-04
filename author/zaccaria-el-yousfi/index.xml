@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zaccaria El Yousfi | Earthquake Science</title>
+    <link>https://eqsci.mit.edu/author/zaccaria-el-yousfi/</link>
+      <atom:link href="https://eqsci.mit.edu/author/zaccaria-el-yousfi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zaccaria El Yousfi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://eqsci.mit.edu/images/logo.svg</url>
+      <title>Zaccaria El Yousfi</title>
+      <link>https://eqsci.mit.edu/author/zaccaria-el-yousfi/</link>
+    </image>
+    
+    <item>
+      <title>Temperature controls the episodic dynamics of deep slow slip</title>
+      <link>https://eqsci.mit.edu/publication/el-yousfi_2026/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/el-yousfi_2026/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

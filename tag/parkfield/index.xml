@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/parkfield/</link>
       <atom:link href="https://eqsci.mit.edu/tag/parkfield/index.xml" rel="self" type="application/rss+xml" />
     <description>Parkfield</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Parkfield</title>
       <link>https://eqsci.mit.edu/tag/parkfield/</link>
     </image>
+    
+    <item>
+      <title>Temperature controls the episodic dynamics of deep slow slip</title>
+      <link>https://eqsci.mit.edu/publication/el-yousfi_2026/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/el-yousfi_2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Propagation of Coulomb Stress Uncertainties in Physics-Based Aftershock Models</title>

@@ -5,12 +5,20 @@
     <link>https://eqsci.mit.edu/tag/japan/</link>
       <atom:link href="https://eqsci.mit.edu/tag/japan/index.xml" rel="self" type="application/rss+xml" />
     <description>Japan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 08 May 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 16 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://eqsci.mit.edu/images/logo.svg</url>
       <title>Japan</title>
       <link>https://eqsci.mit.edu/tag/japan/</link>
     </image>
+    
+    <item>
+      <title>Temperature controls the episodic dynamics of deep slow slip</title>
+      <link>https://eqsci.mit.edu/publication/el-yousfi_2026/</link>
+      <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://eqsci.mit.edu/publication/el-yousfi_2026/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Untangling the environmental and tectonic drivers of the Noto earthquake swarm in Japan</title>
